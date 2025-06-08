@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepak kumar ahirwar</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<p align="left"> <img src="https://drive.google.com/uc?export=view&id=1mgc8dLGQrNE4pEMPbPah6s_XzVm4eRNK" alt="deepak" /> </p>
+<p align="left"> <img src="https://drive.google.com/uc?export=view&id=1mgc8dLGQrNE4pEMPbPah6s_XzVm4eRNK" height="50" alt="deepak" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/deepak-kumar-ahirwar](https://github.com/deepak-kumar-ahirwar)
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **deepak89482281@gmail.com**
 
-- ⚡ Fun fact **I love to sing!**
+- ⚡ Fun fact **I love to play pc games!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
