@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Deepak kumar ahirwar</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<p align="left"> <img src="https://drive.google.com/file/d/1mgc8dLGQrNE4pEMPbPah6s_XzVm4eRNK/view?usp=drive_link" alt="deepak" /> </p>
+<p align="left"> <img src="https://drive.google.com/uc?export=view&id=1mgc8dLGQrNE4pEMPbPah6s_XzVm4eRNK" alt="deepak" /> </p>
 
-- 👨‍💻 All of my projects are available at (https://github.com/deepak-kumar-ahirwar)
+- 👨‍💻 All of my projects are available at [https://github.com/deepak-kumar-ahirwar](https://github.com/deepak-kumar-ahirwar)
 
 - 💬 Ask me about **Java, SpringBoot, React.js, Angular, JavaScript, TypeScript**
 
